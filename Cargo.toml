@@ -1,0 +1,6 @@
+[package]
+name = "rustrix"
+version = "0.1.0"
+authors = ["anetcher <aneutral@hotmail.com>"]
+
+[dependencies]
